@@ -1,0 +1,18 @@
+<diagram dimensions="(500,300)" margins="5">
+  <coordinates bbox="(-8,-3,20,10)">
+    <network directed="no" scale="0.8"
+	     node-fill="#ffffff" node-stroke="black"
+	     seed="1" labels="yes"
+	     tactile-node-size="40" node-size="25" >
+
+         <node at="0" p="(1,2)" edges="[1,2,5]" label="A" />
+         <node at="1" p="(2,4)" edges="[]" label="B" />
+         <node at="2" p="(4,3)" edges="[3]" label="C" />
+         <node at="3" p="(3,1)" edges="[4,6]" label="D" />
+         <node at="4" p="(4,0)" edges="[]" label="E" />
+         <node at="5" p="(0,1)" edges="[]" label="F" />
+         <node at="6" p="(1,1)" edges="[]" label="G" />
+
+    </network>
+  </coordinates>
+</diagram>

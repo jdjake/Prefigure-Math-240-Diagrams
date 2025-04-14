@@ -1,0 +1,17 @@
+<diagram dimensions="(500,300)" margins="5">
+  <coordinates bbox="(-8,-3,20,10)">
+    <network directed="no" scale="0.8"
+	     node-fill="#ffffff" node-stroke="black"
+	     seed="1" labels="yes"
+	     tactile-node-size="40" node-size="25" >
+
+         <node at="0" p="(0,2)" edges="[1,3,2]" label="a" />
+         <node at="1" p="(2,2)" edges="[2,4]" label="b" />
+         <node at="2" p="(4,2)" edges="[4]" label="c" />
+         <node at="3" p="(0,0)" edges="[4]" label="d" />
+         <node at="4" p="(2,0)" edges="[]" label="e" />
+
+         <!-- TODO: Make the line from A to C curved so that it is visible -->
+    </network>
+  </coordinates>
+</diagram>

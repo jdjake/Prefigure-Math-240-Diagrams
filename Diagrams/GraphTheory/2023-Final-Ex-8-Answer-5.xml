@@ -1,0 +1,16 @@
+<diagram dimensions="(500,300)" margins="5">
+  <coordinates bbox="(-8,-3,20,10)">
+    <network directed="no" scale="0.8"
+	     node-fill="#ffffff" node-stroke="black"
+	     seed="1" labels="yes"
+	     tactile-node-size="40" node-size="25" >
+
+         <node at="0" p="(0,2)" edges="[]" label="A" />
+         <node at="1" p="(1.5,1)" edges="[4]" label="B" />
+         <node at="2" p="(1,0)" edges="[4]" label="C" />
+         <node at="3" p="(-1,0)" edges="[2]" label="D" />
+         <node at="4" p="(-1.5,1)" edges="[]" label="E" />
+
+    </network>
+  </coordinates>
+</diagram>
