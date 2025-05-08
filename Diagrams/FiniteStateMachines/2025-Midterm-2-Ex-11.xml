@@ -1,0 +1,33 @@
+<diagram dimensions="(500,300)" margins="5">
+    <coordinates bbox="(-2,-2,3,1)">
+      <network directed="yes" scale="0.8"
+           node-fill="#ffffff" node-stroke="black"
+           seed="1" labels="yes"
+           tactile-node-size="40" node-size="25" >
+
+           <node at="100" p="(-1,0)" edges="[0]" label="\text{Start}" style="diamond" />
+           <node at="0" p="(0,0)" edges="[1,2]" label="s_0" style="box" />
+           <node at="1" p="(0,-1)" edges="[1]" label="s_1" />
+           <node at="2" p="(1,0)" edges="[2,3]" label="s_2" />
+           <node at="3" p="(2,0)" edges="[2,3]" label="s_2" style="box" />
+      </network>
+  
+      <!-- edge 0,1 -->
+      <!-- <label anchor="(2,2)" alignment="nw" offset="(-10,5)"> 0 </label> -->
+  
+      <!-- edge 1,1 -->
+      <!-- <path start="(4,6)" arrows="1" stroke="black">
+        <cubic-bezier controls="((1,5),(3,5),(2,3))"/>
+      </path>
+      <label anchor="(4,10)" alignment="n"> 1 </label> -->
+  
+      <!-- edge 0,2 -->
+      <!-- <label anchor="(4,0)" alignment="s"> 1 </label> -->
+  
+      <!-- edge 1,2 -->
+      <!-- <label anchor="(6,2)" alignment="ne" offset="(10,5)"> 0 </label> -->
+  
+      <!-- edge 2,2 -->
+      <!-- <label anchor="(8,0)" alignment="e"> 0,1 </label> -->
+    </coordinates>
+  </diagram>
