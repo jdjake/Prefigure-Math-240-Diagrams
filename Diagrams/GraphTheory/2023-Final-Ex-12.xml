@@ -1,17 +1,17 @@
 <diagram dimensions="(500,300)" margins="5">
-  <coordinates bbox="(-8,-3,20,10)">
+  <coordinates bbox="(-2,-1,25,13)">
     <network directed="no" scale="0.8"
 	     node-fill="#ffffff" node-stroke="black"
 	     seed="1" labels="yes"
 	     tactile-node-size="40" node-size="25" >
 
-         <node at="0" p="(0,3)" edges="[1,4]" label="T" />
-         <node at="1" p="(2,3)" edges="[2]" label="U" />
-         <node at="2" p="(4,3)" edges="[3,5]" label="V" />
-         <node at="3" p="(6,3)" edges="[6]" label="Y" />
-         <node at="4" p="(1,1.5)" edges="[5,6]" label="W" />
-         <node at="5" p="(1.8,2.1)" edges="[3,6]" label="X" />
-         <node at="6" p="(3,0)" edges="[]" label="Z" />
+         <node at="0" p="(0,12)" edges="[1,4]" label="T" />
+         <node at="1" p="(8,12)" edges="[2]" label="U" />
+         <node at="2" p="(16,12)" edges="[3,5]" label="V" />
+         <node at="3" p="(24,12)" edges="[6]" label="Y" />
+         <node at="4" p="(4,6)" edges="[5,6]" label="W" />
+         <node at="5" p="(8,8.5)" edges="[3,6]" label="X" />
+         <node at="6" p="(10,0)" edges="[]" label="Z" />
 
     </network>
   </coordinates>
